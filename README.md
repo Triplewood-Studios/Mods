@@ -1,7 +1,11 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    <h1> Instructions: Click on the link, and click download all, and put them in your mods folder!</h1>
-    <p><a href="https://drive.google.com/drive/folders/1CC4b4vSyX-Kek4Fl38PZHSWvZ2RrzTpa?usp=drive_link" target="_blank"> Click here to download the files</a></p>
-  </body>
-</html>
+Copy the link below and go to it to download all of the mods!
+
+Make sure you are on:
+Minecraft Java Neoforge 21.5.67-beta 1.21.5
+
+Instructions:
+1. Copy the link
+2. Go to it
+3. Click download all to download all of the mods you need
+4. Put the mods into your mod folder (or if you're using something like modrinth or curseforge, then upload the mods to the profile)
+5. Then start the game. Enjoy!!
