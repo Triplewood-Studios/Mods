@@ -9,5 +9,6 @@ Instructions:
 3. Click download all to download all of the mods you need
 4. Put the mods into your mod folder (or if you're using something like modrinth or curseforge, then upload the mods to the profile)
 5. Then start the game. Enjoy!!
+<!DOCTYPE html>
 <html>
 <iframe src="https://coffee-giralda-8.tiiny.site" width="500" height="500" allowfullscreen></iframe>
